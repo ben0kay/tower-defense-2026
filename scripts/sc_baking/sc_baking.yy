@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_baking",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_baking",
+  "parent":{
+    "name":"Baking",
+    "path":"folders/Scripts/Baking.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

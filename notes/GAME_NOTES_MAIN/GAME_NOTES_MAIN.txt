@@ -1,0 +1,26 @@
+This game is a top-down sci-fi tower defense. this note file constains the overall main structure of the game
+
+grid tower placement.
+
+enemies use grid path to get to their goal.
+
+key things to keep in mind:
+players can place towers on certain tiles that block enemy paths - so periodic staggered checks are needed
+i may have maps with multiple enemy spawn points, and multiple o_end points (the enemy goal)
+i want some smaller enemies to use path_shift to create some variety in the path so it doesn't look like a single line..
+
+towers can be levelled up by player.
+towers can prioritize first , last , closest , furthest , strongest , weakest
+
+
+research tech tree can be visited between each map to choose upgrades
+there will be multiple research lines - with prerequisites like requireing the previous uprade etc.
+
+
+i want to use primitive drawings for my towers and enemies at first, and bake them as sprites 
+towers should comprise of the main base sprite, the turret sprite (for recoil effect)
+a muzzle effect when shooting
+if towers should have animated appearances, they should be baked as it's own sprite.
+the same goes for enemies
+i will make use of the particle system for effects as well such as enemy thrusters, tower laser embers, impacts etc.
+

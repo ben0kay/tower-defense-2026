@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"GAME_NOTES_MAIN",
+  "name":"GAME_NOTES_MAIN",
+  "parent":{
+    "name":"NOTES",
+    "path":"folders/NOTES.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
