@@ -12,7 +12,6 @@
   "Folders":[
     {"$GMFolder":"","%Name":"NOTES","folderPath":"folders/NOTES.yy","name":"NOTES","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"o_camera","folderPath":"folders/Objects/o_camera.yy","name":"o_camera","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Baking","folderPath":"folders/Scripts/Baking.yy","name":"Baking","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Scripts/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -29,6 +28,7 @@
   "resources":[
     {"id":{"name":"CODING_PREFERENCES","path":"notes/CODING_PREFERENCES/CODING_PREFERENCES.yy",},},
     {"id":{"name":"GAME_NOTES_MAIN","path":"notes/GAME_NOTES_MAIN/GAME_NOTES_MAIN.yy",},},
+    {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},},
     {"id":{"name":"o_controller_level","path":"objects/o_controller_level/o_controller_level.yy",},},
     {"id":{"name":"o_controller_main","path":"objects/o_controller_main/o_controller_main.yy",},},
     {"id":{"name":"o_enemy_spawn","path":"objects/o_enemy_spawn/o_enemy_spawn.yy",},},
